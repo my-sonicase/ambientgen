@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+.env
+*.wav
+*.mp3
+*.flac
+.DS_Store
+_site/
+.jekyll-cache/
+.sass-cache/
+venv/
+*.egg-info/
+dist/
+build/
+.ipynb_checkpoints/

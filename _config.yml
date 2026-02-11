@@ -1,0 +1,4 @@
+title: AmbientGen
+description: Building a text-to-ambient-sound generator with AudioLDM2
+theme: jekyll-theme-minimal
+baseurl: /ambientgen
