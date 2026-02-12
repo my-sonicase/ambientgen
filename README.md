@@ -13,8 +13,9 @@ This is a learning-in-public project documenting my journey into Generative AI f
 Follow the build process on the [project blog](blog/index.md):
 
 1. [What is AudioLDM2 and why I'm using it](blog/01-what-is-audioldm2.md)
-2. *Coming soon: First generated sound*
-3. *Coming soon: Prompt engineering for audio*
+2. [Day 2: First Sounds — What AudioLDM2 Can and Can't Do](02-first-sounds.md)
+3. [Day 3: Prompt Engineering for Audio — What Actually Works](03-prompt-engineering.md)
+
 
 ## 📚 Reading List
 
