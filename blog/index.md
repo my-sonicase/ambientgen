@@ -13,7 +13,7 @@ Building a text-to-ambient-sound generator from scratch, learning generative AI 
 - [Day 1: What is AudioLDM2 and why I'm using it](01-what-is-audioldm2.md)
 
 ### Phase 2: First Sounds
-- *Coming soon*
+- [Day 2: First Sounds — What AudioLDM2 Can and Can't Do](02-first-sounds.md)
 
 ### Phase 3: Prompt Engineering for Audio
 - *Coming soon*
