@@ -19,7 +19,7 @@ Building a text-to-ambient-sound generator from scratch, learning generative AI 
 - [Day 3: Prompt Engineering for Audio — What Actually Works](03-prompt-engineering.md)
 
 ### Phase 4: Building the Interface
-- *Coming soon*
+- [Day 4: Building AmbientGen — From Notebook to Product](04-building-the-interface.md)
 
 ### Phase 5: Improving Quality
 - *Coming soon*
